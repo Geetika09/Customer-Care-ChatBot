@@ -109,11 +109,6 @@ We welcome contributions! Here's how you can get involved:
 
 ---
 
-## 📜 License
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 ## 🙏 Acknowledgements
 - **RASA**: For the conversational AI framework.
 - **RASA Forums**: For community support and discussions.
